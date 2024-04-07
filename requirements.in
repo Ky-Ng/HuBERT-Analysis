@@ -1,0 +1,10 @@
+# Transformer Architecture
+transformers
+
+# Machine Learning
+torch
+
+# Jupyter Notebook
+ipykernel
+networkx==2.8.8
+ipython==8.18.1 # TODO upgrade version in pip
