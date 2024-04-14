@@ -1,3 +1,6 @@
+# Command for refreshing compile: 
+    # pip-compile requirements.in && pip install -r requirements.txt
+
 # Transformer Architecture
 transformers
 
@@ -8,3 +11,9 @@ torch
 ipykernel
 networkx==2.8.8
 ipython==8.18.1 # TODO upgrade version in pip
+
+# Audio Processing
+librosa
+
+# Plotting
+matplotlib
