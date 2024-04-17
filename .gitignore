@@ -1,2 +1,5 @@
 # Virtual Python Environment
 .transformers-venv
+.DS_store
+data
+data\ copy
